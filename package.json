@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Chunchster/laboratorio3_SD#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "mongoose": "^6.4.7"
   }
 }
